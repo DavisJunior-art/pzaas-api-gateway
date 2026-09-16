@@ -255,3 +255,9 @@ Alguns serviços do ecossistema PZaaS são mantidos por outras equipes. Dessa fo
 
 **PZaaS — Pizza as a Service**  
 **Serviço 01 — API Gateway**
+
+Documentação Técnica
+
+A documentação completa do Serviço 01 — API Gateway do projeto PZaaS está disponível no arquivo abaixo:
+
+➡️ [Acessar Documentação Final do API Gateway](docs/Documentacao_Final_API_Gateway_PZaaS_Davis_Vitor_Hugo.pdf)
